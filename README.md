@@ -19,6 +19,11 @@ This project involves analyzing sales data for Amazon using SQL queries to extra
 9. Display review contents that contains words like worst, waste, poor, or not good.
 10. List all products where the category includes "Accessories."
 
+# Technologies Used
+- SQL for data querying and analysis
+- Google Drive for dataset and video storage
+- GitHub for version control and collaboration
+
 # Conclusion:
 The **Amazon Sales** Analysis using SQL queries has provided insightful data on product performance, customer preferences, and pricing strategies. Key findings include effective use of high discounts, understanding demand for specific products, and identifying features like fast charging that customers value.
 
